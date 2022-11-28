@@ -1,0 +1,50 @@
+/* Style the navigation bar links */
+/* header {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+} */
+header {
+  padding: 28px;
+  background-color: rgb(158, 26, 26);
+}
+header {
+  color: white;
+}
+.title {
+  font-size: 29px;
+}
+.login {
+  padding-top: 5px;
+  font-size: 18px;
+}
+
+
+nav {
+  background-color: rgb(59, 57, 57);
+  padding: 20px;
+}
+ul {
+  padding-bottom: 15px;
+}
+ a.navlink {
+  color: white;
+  font-size: 18px;
+  float: right;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+
+.side_imgs {
+  padding: 20px;
+  float: right;
+}
+figcaption {
+  font-size: large;
+  font-weight: bold;
+  padding: 10px;
+}
